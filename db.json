@@ -1,9 +1,424 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
-}
+    "pool": [
+      { 
+        "id": "0x644D38A5D0d31889ac58525317A03e0d958a49c5",
+        "coin_1": { 
+          "name": "STONE", 
+          "avatar": "images/coins/STONE.webp",
+          "min_price": 12.8311,
+          "max_price": 19.6456,
+          "current_price": 15.8744
+        },
+        "coin_2": { 
+          "name": "KLAY",
+          "avatar": "images/coins/KLAY.webp",
+          "min_price": 12.8311,
+          "max_price": 19.6456,
+          "current_price": 0.0629944
+        },
+        "percent": 0.2,
+        "is_stone": true,
+        "avg": 127.49,
+        "total_liquidity": 209720,
+        "volume_per_day": 278784,
+        "deposit_ratio": [50, 50],
+        "fee_boost": 9.90,
+        "estimated_apr": 28.41,
+        "avg_details": { 
+          "title":  "Expected Average APR based on 24h swap fee + rewards",
+          "swap_fee": 1.3,
+          "stone_rewards": 5.45
+        },
+        "active": 136.48,
+        "passive": 68.82
+      },
+      { 
+        "id": "0xAAbec6D08c4a5aB33a4D8DC697Dce65a61B5c344",
+        "coin_1": { 
+          "name": "oUSDT", 
+          "avatar": "images/coins/oUSDT.webp",
+          "min_price": 2.63149,
+          "max_price": 4.01296,
+          "current_price": 3.24743
+  
+        },
+        "coin_2": { 
+          "name": "KLAY",
+          "avatar": "images/coins/KLAY.webp",
+          "min_price": 0.249193,
+          "max_price": 0.380013,
+          "current_price": 0.307936
+        },
+        "percent": 0.2,
+        "is_stone": true,
+        "avg": 412.8,
+        "total_liquidity": 553218,
+        "volume_per_day": 3638963,
+        "deposit_ratio": [50.2, 49.8],
+        "fee_boost": 9.99,
+        "estimated_apr": 207.85,
+        "avg_details": { 
+          "title":  "Expected Average APR based on 24h swap fee + rewards",
+          "swap_fee": 384.14,
+          "stone_rewards": 22.7
+        },
+        "active": 136.48,
+        "passive": 68.82
+      },
+      { 
+        "id": "0xEace3F7Ff9e48E006380a135867dB3081E3B1842",
+        "coin_1": { 
+          "name": "oETH",
+          "avatar": "images/coins/oETH.webp",
+          "min_price": 1350.25,
+          "max_price": 2067.35,
+          "current_price": 1671.19
+        },
+        "coin_2": { 
+          "name": "oUSDT", 
+          "avatar": "images/coins/oUSDT.webp",
+          "min_price": 0.000483712,
+          "max_price": 0.000740606,
+          "current_price": 0.000598378
+        },
+        "percent": 0.2,
+        "is_stone": true,
+        "avg": 117.65,
+        "total_liquidity": 649629,
+        "volume_per_day": 1093738,
+        "deposit_ratio": [49.9, 50.1],
+        "fee_boost": 9.90,
+        "estimated_apr": 29.19,
+        "avg_details": { 
+          "title":  "Expected Average APR based on 24h swap fee + rewards",
+          "swap_fee": 98.32,
+          "stone_rewards": 19.33
+        },
+        "active": 2.47,
+        "passive": 0.78
+      },
+      { 
+        "id": "0x8a9ab142C9caE18594EA1c83374ec7c70dFB65E9",
+        "coin_1": { 
+          "name": "oUSDC", 
+          "avatar": "images/coins/oUSDC.webp",
+          "min_price": 0.998002,
+          "max_price": 1.0006,
+          "current_price": 0.999253
+        },
+        "coin_2": { 
+          "name": "oUSDT",
+          "avatar": "images/coins/oUSDT.webp",
+          "min_price": 0.9994,
+          "max_price": 1.002,
+          "current_price": 1.00075
+        },
+        "percent": 0.06,
+        "is_stone": true,
+        "avg": 10.51,
+        "total_liquidity": 2005334,
+        "volume_per_day": 487391,
+        "deposit_ratio": [51.8, 48.2],
+        "fee_boost": 1539.04,
+        "estimated_apr": 0.71,
+        "avg_details": { 
+          "title":  "Expected Average APR based on 24h swap fee + rewards",
+          "swap_fee": 4.26,
+          "stone_rewards": 6.26
+        },
+        "active": 1.17,
+        "passive": 0.37
+      },
+      { 
+        "id": "0x664d27A79C56BE62c63129fE0dbA53A4Dd10fF7b",
+        "coin_1": { 
+          "name": "KDAI", 
+          "avatar": "images/coins/KDAI.webp",
+          "min_price": 0.998005,
+          "max_price": 1.0006,
+          "current_price": 0.999248
+          
+        },
+        "coin_2": { 
+          "name": "oUSDT", 
+          "avatar": "images/coins/oUSDT.webp",
+          "min_price": 0.999398,
+          "max_price": 1.0006,
+          "current_price": 1.002
+        },
+        "percent": 0.06,
+        "is_stone": true,
+        "avg": 6.69,
+        "total_liquidity": 2302417,
+        "volume_per_day": 158233,
+        "deposit_ratio": [52.1, 47.9],
+        "fee_boost": 1539.04,
+        "estimated_apr": 1.21,
+        "avg_details": { 
+          "title":  "Expected Average APR based on 24h swap fee + rewards",
+          "swap_fee": 1.23,
+          "stone_rewards": 5.45
+        },
+        "active": 20.75,
+        "passive": 10.37
+      },
+      { 
+        "id": "0x8034eE9b9dD1376d2E9Ea93bf136Fd0532743A6D",
+        "coin_1": { 
+          "name": "oUSDC", 
+          "avatar": "images/coins/oUSDC.webp",
+          "min_price": 0.998002,
+          "max_price": 1.0006,
+          "current_price": 0.999253
+        },
+        "coin_2": { 
+          "name": "oUSDT",
+          "avatar": "images/coins/oUSDT.webp",
+          "min_price": 0.9994,
+          "max_price": 1.002,
+          "current_price": 1.00075
+        },
+        "percent": 0.06,
+        "is_stone": true,
+        "avg": 10.51,
+        "total_liquidity": 2005334,
+        "volume_per_day": 487391,
+        "deposit_ratio": [51.8, 48.2],
+        "fee_boost": 1539.04,
+        "estimated_apr": 0.71,
+        "avg_details": { 
+          "title":  "Expected Average APR based on 24h swap fee + rewards",
+          "swap_fee": 4.26,
+          "stone_rewards": 6.26
+        },
+        "active": 136.48,
+        "passive": 68.82
+      },
+      { 
+        "id": "0x94d996E26ef631D25Fd705dcA6a8e99227e90D00",
+        "coin_1": { 
+          "name": "STONE", 
+          "avatar": "images/coins/STONE.webp",
+          "min_price": 12.8311,
+          "max_price": 19.6456,
+          "current_price": 15.8744
+        },
+        "coin_2": { 
+          "name": "KLAY",
+          "avatar": "images/coins/KLAY.webp",
+          "min_price": 12.8311,
+          "max_price": 19.6456,
+          "current_price": 0.0629944
+        },
+        "percent": 0.2,
+        "is_stone": true,
+        "avg": 127.49,
+        "total_liquidity": 209720,
+        "volume_per_day": 278784,
+        "deposit_ratio": [50, 50],
+        "fee_boost": 9.90,
+        "estimated_apr": 28.41,
+        "avg_details": { 
+          "title":  "Expected Average APR based on 24h swap fee + rewards",
+          "swap_fee": 1.3,
+          "stone_rewards": 5.45
+        },
+        "active": 2.47,
+        "passive": 0.78
+      },
+      { 
+        "id": "0xCC87e1CE42e7B01A03398586cf7fA5130b014571",
+        "coin_1": { 
+          "name": "oUSDC", 
+          "avatar": "images/coins/oUSDC.webp",
+          "min_price": 0.998002,
+          "max_price": 1.0006,
+          "current_price": 0.999253
+        },
+        "coin_2": { 
+          "name": "oUSDT",
+          "avatar": "images/coins/oUSDT.webp",
+          "min_price": 0.9994,
+          "max_price": 1.002,
+          "current_price": 1.00075
+        },
+        "percent": 0.06,
+        "is_stone": true,
+        "avg": 10.51,
+        "total_liquidity": 2005334,
+        "volume_per_day": 487391,
+        "deposit_ratio": [51.8, 48.2],
+        "fee_boost": 1539.04,
+        "estimated_apr": 0.71,
+        "avg_details": { 
+          "title":  "Expected Average APR based on 24h swap fee + rewards",
+          "swap_fee": 4.26,
+          "stone_rewards": 6.26
+        },
+        "active": 220.09,
+        "passive": 0.78
+      },
+      { 
+        "id": "0x3bABA7ef7982eD32F51744A3DbFb6299B5c0C933",
+        "coin_1": { 
+          "name": "oUSDC", 
+          "avatar": "images/coins/oUSDC.webp",
+          "min_price": 0.998002,
+          "max_price": 1.0006,
+          "current_price": 0.999253
+        },
+        "coin_2": { 
+          "name": "oUSDT",
+          "avatar": "images/coins/oUSDT.webp",
+          "min_price": 0.9994,
+          "max_price": 1.002,
+          "current_price": 1.00075
+        },
+        "percent": 0.06,
+        "is_stone": true,
+        "avg": 10.51,
+        "total_liquidity": 2005334,
+        "volume_per_day": 487391,
+        "deposit_ratio": [51.8, 48.2],
+        "fee_boost": 1539.04,
+        "estimated_apr": 0.71,
+        "avg_details": { 
+          "title":  "Expected Average APR based on 24h swap fee + rewards",
+          "swap_fee": 4.26,
+          "stone_rewards": 6.26
+        },
+        "active": 220.09,
+        "passive": 0.78
+      },
+      { 
+        "id": "0xAAbec6D08c4a5aB33a4D8DC697Dce65a61B5c344",
+        "coin_1": { 
+          "name": "oUSDC", 
+          "avatar": "images/coins/oUSDC.webp",
+          "min_price": 0.998002,
+          "max_price": 1.0006,
+          "current_price": 0.999253
+        },
+        "coin_2": { 
+          "name": "oUSDT",
+          "avatar": "images/coins/oUSDT.webp",
+          "min_price": 0.9994,
+          "max_price": 1.002,
+          "current_price": 1.00075
+        },
+        "percent": 0.06,
+        "is_stone": true,
+        "avg": 10.51,
+        "total_liquidity": 2005334,
+        "volume_per_day": 487391,
+        "deposit_ratio": [51.8, 48.2],
+        "fee_boost": 1539.04,
+        "estimated_apr": 0.71,
+        "avg_details": { 
+          "title":  "Expected Average APR based on 24h swap fee + rewards",
+          "swap_fee": 4.26,
+          "stone_rewards": 6.26
+        },
+        "active": 20.09,
+        "passive": 10.78
+      },
+      { 
+        "id": "0xEace3F7Ff9e48E006380a135867dB3081E3B1842",
+        "coin_1": { 
+          "name": "KDAI", 
+          "avatar": "images/coins/KDAI.webp",
+          "min_price": 0.998005,
+          "max_price": 1.0006,
+          "current_price": 0.999248
+          
+        },
+        "coin_2": { 
+          "name": "oUSDT", 
+          "avatar": "images/coins/oUSDT.webp",
+          "min_price": 0.999398,
+          "max_price": 1.0006,
+          "current_price": 1.002
+        },
+        "percent": 0.06,
+        "is_stone": true,
+        "avg": 6.69,
+        "total_liquidity": 2302417,
+        "volume_per_day": 158233,
+        "deposit_ratio": [52.1, 47.9],
+        "fee_boost": 1539.04,
+        "estimated_apr": 1.21,
+        "avg_details": { 
+          "title":  "Expected Average APR based on 24h swap fee + rewards",
+          "swap_fee": 1.23,
+          "stone_rewards": 5.45
+        },
+        "active": 122,
+        "passive": 32
+      },
+      { 
+        "id": "0x8a9ab142C9caE18594EA1c83374ec7c70dFB65E9",
+        "coin_1": { 
+          "name": "oUSDC", 
+          "avatar": "images/coins/oUSDC.webp",
+          "min_price": 0.998002,
+          "max_price": 1.0006,
+          "current_price": 0.999253
+        },
+        "coin_2": { 
+          "name": "oUSDT",
+          "avatar": "images/coins/oUSDT.webp",
+          "min_price": 0.9994,
+          "max_price": 1.002,
+          "current_price": 1.00075
+        },
+        "percent": 0.06,
+        "is_stone": true,
+        "avg": 10.51,
+        "total_liquidity": 2005334,
+        "volume_per_day": 487391,
+        "deposit_ratio": [51.8, 48.2],
+        "fee_boost": 1539.04,
+        "estimated_apr": 0.71,
+        "avg_details": { 
+          "title":  "Expected Average APR based on 24h swap fee + rewards",
+          "swap_fee": 4.26,
+          "stone_rewards": 6.26
+        },
+        "active": 223.9,
+        "passive": 18
+      },
+      { 
+        "id": "0x9A2339E89d7030630edb99B73228BB9bB68fa450",
+        "coin_1": { 
+          "name": "STONE", 
+          "avatar": "images/coins/STONE.webp",
+          "min_price": 12.8311,
+          "max_price": 19.6456,
+          "current_price": 15.8744
+        },
+        "coin_2": { 
+          "name": "KLAY",
+          "avatar": "images/coins/KLAY.webp",
+          "min_price": 12.8311,
+          "max_price": 19.6456,
+          "current_price": 0.0629944
+        },
+        "percent": 0.2,
+        "is_stone": true,
+        "avg": 127.49,
+        "total_liquidity": 209720,
+        "volume_per_day": 278784,
+        "deposit_ratio": [50, 50],
+        "fee_boost": 9.90,
+        "estimated_apr": 28.41,
+        "avg_details": { 
+          "title":  "Expected Average APR based on 24h swap fee + rewards",
+          "swap_fee": 1.3,
+          "stone_rewards": 5.45
+        },
+        "active": 220.09,
+        "passive": 0.78
+      }
+      
+    ]
+  }
