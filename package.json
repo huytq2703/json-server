@@ -1,0 +1,23 @@
+{
+  "name": "json-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --port 3001 ./fake_db.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huytq2703/json-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huytq2703/json-server/issues"
+  },
+  "homepage": "https://github.com/huytq2703/json-server#readme",
+  "dependencies": {
+    "json-server": "^0.17.2"
+  }
+}
