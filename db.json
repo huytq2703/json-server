@@ -4,14 +4,14 @@
         "id": "0x644D38A5D0d31889ac58525317A03e0d958a49c5",
         "coin_1": { 
           "name": "STONE", 
-          "avatar": "images/coins/STONE.webp",
+          "avatar": "/images/coins/STONE.webp",
           "min_price": 12.8311,
           "max_price": 19.6456,
           "current_price": 15.8744
         },
         "coin_2": { 
           "name": "KLAY",
-          "avatar": "images/coins/KLAY.webp",
+          "avatar": "/images/coins/KLAY.webp",
           "min_price": 12.8311,
           "max_price": 19.6456,
           "current_price": 0.0629944
@@ -36,7 +36,7 @@
         "id": "0xAAbec6D08c4a5aB33a4D8DC697Dce65a61B5c344",
         "coin_1": { 
           "name": "oUSDT", 
-          "avatar": "images/coins/oUSDT.webp",
+          "avatar": "/images/coins/oUSDT.webp",
           "min_price": 2.63149,
           "max_price": 4.01296,
           "current_price": 3.24743
@@ -44,7 +44,7 @@
         },
         "coin_2": { 
           "name": "KLAY",
-          "avatar": "images/coins/KLAY.webp",
+          "avatar": "/images/coins/KLAY.webp",
           "min_price": 0.249193,
           "max_price": 0.380013,
           "current_price": 0.307936
@@ -69,14 +69,14 @@
         "id": "0xEace3F7Ff9e48E006380a135867dB3081E3B1842",
         "coin_1": { 
           "name": "oETH",
-          "avatar": "images/coins/oETH.webp",
+          "avatar": "/images/coins/oETH.webp",
           "min_price": 1350.25,
           "max_price": 2067.35,
           "current_price": 1671.19
         },
         "coin_2": { 
           "name": "oUSDT", 
-          "avatar": "images/coins/oUSDT.webp",
+          "avatar": "/images/coins/oUSDT.webp",
           "min_price": 0.000483712,
           "max_price": 0.000740606,
           "current_price": 0.000598378
@@ -101,14 +101,14 @@
         "id": "0x8a9ab142C9caE18594EA1c83374ec7c70dFB65E9",
         "coin_1": { 
           "name": "oUSDC", 
-          "avatar": "images/coins/oUSDC.webp",
+          "avatar": "/images/coins/oUSDC.webp",
           "min_price": 0.998002,
           "max_price": 1.0006,
           "current_price": 0.999253
         },
         "coin_2": { 
           "name": "oUSDT",
-          "avatar": "images/coins/oUSDT.webp",
+          "avatar": "/images/coins/oUSDT.webp",
           "min_price": 0.9994,
           "max_price": 1.002,
           "current_price": 1.00075
@@ -133,7 +133,7 @@
         "id": "0x664d27A79C56BE62c63129fE0dbA53A4Dd10fF7b",
         "coin_1": { 
           "name": "KDAI", 
-          "avatar": "images/coins/KDAI.webp",
+          "avatar": "/images/coins/KDAI.webp",
           "min_price": 0.998005,
           "max_price": 1.0006,
           "current_price": 0.999248
@@ -141,7 +141,7 @@
         },
         "coin_2": { 
           "name": "oUSDT", 
-          "avatar": "images/coins/oUSDT.webp",
+          "avatar": "/images/coins/oUSDT.webp",
           "min_price": 0.999398,
           "max_price": 1.0006,
           "current_price": 1.002
@@ -166,14 +166,14 @@
         "id": "0x8034eE9b9dD1376d2E9Ea93bf136Fd0532743A6D",
         "coin_1": { 
           "name": "oUSDC", 
-          "avatar": "images/coins/oUSDC.webp",
+          "avatar": "/images/coins/oUSDC.webp",
           "min_price": 0.998002,
           "max_price": 1.0006,
           "current_price": 0.999253
         },
         "coin_2": { 
           "name": "oUSDT",
-          "avatar": "images/coins/oUSDT.webp",
+          "avatar": "/images/coins/oUSDT.webp",
           "min_price": 0.9994,
           "max_price": 1.002,
           "current_price": 1.00075
@@ -198,14 +198,14 @@
         "id": "0x94d996E26ef631D25Fd705dcA6a8e99227e90D00",
         "coin_1": { 
           "name": "STONE", 
-          "avatar": "images/coins/STONE.webp",
+          "avatar": "/images/coins/STONE.webp",
           "min_price": 12.8311,
           "max_price": 19.6456,
           "current_price": 15.8744
         },
         "coin_2": { 
           "name": "KLAY",
-          "avatar": "images/coins/KLAY.webp",
+          "avatar": "/images/coins/KLAY.webp",
           "min_price": 12.8311,
           "max_price": 19.6456,
           "current_price": 0.0629944
@@ -230,14 +230,14 @@
         "id": "0xCC87e1CE42e7B01A03398586cf7fA5130b014571",
         "coin_1": { 
           "name": "oUSDC", 
-          "avatar": "images/coins/oUSDC.webp",
+          "avatar": "/images/coins/oUSDC.webp",
           "min_price": 0.998002,
           "max_price": 1.0006,
           "current_price": 0.999253
         },
         "coin_2": { 
           "name": "oUSDT",
-          "avatar": "images/coins/oUSDT.webp",
+          "avatar": "/images/coins/oUSDT.webp",
           "min_price": 0.9994,
           "max_price": 1.002,
           "current_price": 1.00075
@@ -262,14 +262,14 @@
         "id": "0x3bABA7ef7982eD32F51744A3DbFb6299B5c0C933",
         "coin_1": { 
           "name": "oUSDC", 
-          "avatar": "images/coins/oUSDC.webp",
+          "avatar": "/images/coins/oUSDC.webp",
           "min_price": 0.998002,
           "max_price": 1.0006,
           "current_price": 0.999253
         },
         "coin_2": { 
           "name": "oUSDT",
-          "avatar": "images/coins/oUSDT.webp",
+          "avatar": "/images/coins/oUSDT.webp",
           "min_price": 0.9994,
           "max_price": 1.002,
           "current_price": 1.00075
@@ -294,14 +294,14 @@
         "id": "0xAAbec6D08c4a5aB33a4D8DC697Dce65a61B5c344",
         "coin_1": { 
           "name": "oUSDC", 
-          "avatar": "images/coins/oUSDC.webp",
+          "avatar": "/images/coins/oUSDC.webp",
           "min_price": 0.998002,
           "max_price": 1.0006,
           "current_price": 0.999253
         },
         "coin_2": { 
           "name": "oUSDT",
-          "avatar": "images/coins/oUSDT.webp",
+          "avatar": "/images/coins/oUSDT.webp",
           "min_price": 0.9994,
           "max_price": 1.002,
           "current_price": 1.00075
@@ -326,7 +326,7 @@
         "id": "0xEace3F7Ff9e48E006380a135867dB3081E3B1842",
         "coin_1": { 
           "name": "KDAI", 
-          "avatar": "images/coins/KDAI.webp",
+          "avatar": "/images/coins/KDAI.webp",
           "min_price": 0.998005,
           "max_price": 1.0006,
           "current_price": 0.999248
@@ -334,7 +334,7 @@
         },
         "coin_2": { 
           "name": "oUSDT", 
-          "avatar": "images/coins/oUSDT.webp",
+          "avatar": "/images/coins/oUSDT.webp",
           "min_price": 0.999398,
           "max_price": 1.0006,
           "current_price": 1.002
@@ -359,14 +359,14 @@
         "id": "0x8a9ab142C9caE18594EA1c83374ec7c70dFB65E9",
         "coin_1": { 
           "name": "oUSDC", 
-          "avatar": "images/coins/oUSDC.webp",
+          "avatar": "/images/coins/oUSDC.webp",
           "min_price": 0.998002,
           "max_price": 1.0006,
           "current_price": 0.999253
         },
         "coin_2": { 
           "name": "oUSDT",
-          "avatar": "images/coins/oUSDT.webp",
+          "avatar": "/images/coins/oUSDT.webp",
           "min_price": 0.9994,
           "max_price": 1.002,
           "current_price": 1.00075
@@ -391,14 +391,14 @@
         "id": "0x9A2339E89d7030630edb99B73228BB9bB68fa450",
         "coin_1": { 
           "name": "STONE", 
-          "avatar": "images/coins/STONE.webp",
+          "avatar": "/images/coins/STONE.webp",
           "min_price": 12.8311,
           "max_price": 19.6456,
           "current_price": 15.8744
         },
         "coin_2": { 
           "name": "KLAY",
-          "avatar": "images/coins/KLAY.webp",
+          "avatar": "/images/coins/KLAY.webp",
           "min_price": 12.8311,
           "max_price": 19.6456,
           "current_price": 0.0629944
