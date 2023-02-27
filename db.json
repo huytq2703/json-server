@@ -12,9 +12,9 @@
         "coin_2": { 
           "name": "KLAY",
           "avatar": "/images/coins/KLAY.webp",
-          "min_price": 12.8311,
-          "max_price": 19.6456,
-          "current_price": 0.0629944
+          "min_price": 11.8311,
+          "max_price": 14.6456,
+          "current_price": 12.0629944
         },
         "percent": 0.2,
         "is_stone": true,
