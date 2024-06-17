@@ -1,12 +1,20 @@
 {
-  "name": "json-server-vercel",
+  "name": "quack",
   "version": "1.0.0",
-  "description": "Deploy JSON Server to Vercel",
-  "main": "api/server.js",
+  "description": "Quack Quack Game Tools",
+  "main": "quack.js",
   "scripts": {
-    "start": "node api/server.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "dependencies": {
-    "json-server": "^0.17.0"
+    "axios": "^1.7.2",
+    "easytimer.js": "^4.6.0",
+    "random-useragent": "^0.5.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.13.0"
   }
 }
